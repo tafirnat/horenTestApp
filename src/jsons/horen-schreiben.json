@@ -12,7 +12,7 @@
       "_blank":"@# html icin <br> satir boslugu ekler"
     },
     "horen-schreiben": {
-      "text": "Sie hören eine telefonische Mitteilung. Informieren Sie Ihre Kollegin. Notieren Sie die Informationen auf dem Antwortbogen. @#Sie hören die Mitteilung einmal",
+      "text": "Sie hören eine telefonische Mitteilung. Informieren Sie Ihre Kollegin. Notieren Sie die Informationen auf dem Antwortbogen. @#Sie hören die Mitteilung einmal.",
       "Beschwerde": {
         "Unzufrieden mit dem Kundenservice": "Hallo, ich bin Kunde bei Ihrer Bank. Ich hatte vor Kurzem Kontakt mit Ihrem Kundenservice, und ich war mit der Erfahrung nicht zufrieden. Ich hatte einige Fragen zu meinem Konto, und die Antworten, die ich erhalten habe, waren nicht klar und hilfreich.@TELEFON-NAME Außerdem wurde das Gespräch ohne eine klare Lösung beendet. Könnten Sie bitte sicherstellen, dass meine Anliegen ernst genommen werden und mir geholfen wird, die benötigten Informationen zu erhalten?",
         "Defektes Produkt": "Guten Tag, ich habe vor kurzem ein Produkt bei Ihrer Firma gekauft, nämlich ein Smartphone. Leider habe ich festgestellt, dass das Gerät einen Defekt aufweist.  Der Touchscreen reagiert nicht mehr richtig, und ich habe Schwierigkeiten, es zu bedienen. @TELEFON-NAME  Ich habe das Smartphone vor @NUMER-KURZ Wochen gekauft und es ist immer noch unter Garantie. Könnten Sie mir bitte erklären, wie ich das Gerät zur Reparatur senden kann, und wie der Prozess abläuft?",
