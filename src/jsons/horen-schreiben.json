@@ -4,9 +4,6 @@
       "voice":"keyName_[F/H] yazilarak bildirilir. Bos birakilirsa random olarak secilir",
       "telefonName":"Telefon ve name bildirimi icin @TELEFON-NAME kullanilmali",
       "siparisKunden_nummer":"müsteri numarasi/siparis numarasi gibi bilgi bildirimi icin @KUNDENNUM kullanilmali. Harf/sayi karisik varsayilan olarak 5 karkter dönderilir. Özel olarak üretilecek sayi belirlemek icin @KUNDENNUM- sonuna tek haneli sayi girilmeli =>@KUNDENNUM9 gibi",
-      "telefonName":"Telefon ve name bildirimi icin @TELEFON-NAME kullanilmali",
-      "telefonName":"Telefon ve name bildirimi icin @TELEFON-NAME kullanilmali",
-      "telefonName":"Telefon ve name bildirimi icin @TELEFON-NAME kullanilmali",
       "telefonName":"Telefon ve name bildirimi icin @TELEFON-NAME kullanilmali"
     },
     "horen-schreiben": {
