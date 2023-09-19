@@ -1,10 +1,15 @@
 [
   {
-    "information":{
+    "infoKurzen":{
       "voice":"keyName_[F/H] yazilarak bildirilir. Bos birakilirsa random olarak secilir",
-      "telefonName":"Telefon ve name bildirimi icin @TELEFON-NAME kullanilmali",
-      "siparisKunden_nummer":"müsteri numarasi/siparis numarasi gibi bilgi bildirimi icin @KUNDENNUM kullanilmali. Harf/sayi karisik varsayilan olarak 5 karkter dönderilir. Özel olarak üretilecek sayi belirlemek icin @KUNDENNUM- sonuna tek haneli sayi girilmeli =>@KUNDENNUM9 gibi",
-      "telefonName":"Telefon ve name bildirimi icin @TELEFON-NAME kullanilmali"
+      "telefon_Name":"@TELEFON-NAME özellestirilmis nameNachname+telefon numarasi ekler",
+      "siparis_Kunden_nummer":"@KUNDENNUM müsteri numarasi/siparis numarasi bildirir. Varsayilan olarak harf/sayi karisik 5 karakter olusturur. Sonuna tek haneli sayi ekleyerek farkli sayida üretilebilir => @KUNDENNUM9 gibi",
+      "date":"@DATE belirli bir tarih ekler => 15. Oktober // 'am' propositione icermez",
+      "hour":"@DATE-HOUR 08-17 raliginda 15 katlari olacak sekilde saat:dakika döner. // 'um' propositione icermez",
+      "date_Raum":"@DATE-RAUM bir tarih araligi dönderir. => vom 25. bis 27. September // 'vom ... bis' propositione ICERIR ",
+      "random_Name":"@NAME random olarak bir name dönderirir. Max 3 farkli isim atanabilir tek dizinde",
+      "short_Num":"@NUMER-KURZ 1-9 arasinda bir sayi dönderiri",
+      "_blank":"@# html icin <br> satir boslugu ekler"
     },
     "horen-schreiben": {
       "text": "Sie hören eine telefonische Mitteilung. Informieren Sie Ihre Kollegin. Notieren Sie die Informationen auf dem Antwortbogen. @#Sie hören die Mitteilung einmal",
