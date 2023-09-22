@@ -7,7 +7,7 @@
       "hour":"@DATE-HOUR 08-17 raliginda 15 katlari olacak sekilde saat:dakika döner. // 'um' propositione icermez",
       "date_Raum":"@DATE-RAUM bir tarih araligi dönderir. => vom 25. bis 27. September // 'vom ... bis' propositione ICERIR ",
       "random_Name":"@NAME random olarak bir name dönderirir. Max 3 farkli isim atanabilir tek dizinde",
-      "short_Num":"@NUMER-KURZ 1-9 arasinda bir sayi dönderiri",
+      "short_Num":"@NUMER varsayilan olarak 1-9 arasinda bir sayi dönderiri, eger daha fazla sayi döndermesi isteniliyorsa sonuna min-max deger girilmeli =>@NUMER25-50, eger sadece max deger girilirse 1-max arasinda bir deger atarni =>@NUMBER30",
       "_blank":"@# html icin <br> satir boslugu ekler",
       "city":"@CITY bir sehir adi dönderir"
     },
