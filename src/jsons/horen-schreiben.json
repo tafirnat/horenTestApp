@@ -9,7 +9,8 @@
       "date_Raum":"@DATE-RAUM bir tarih araligi dönderir. => vom 25. bis 27. September // 'vom ... bis' propositione ICERIR ",
       "random_Name":"@NAME random olarak bir name dönderirir. Max 3 farkli isim atanabilir tek dizinde",
       "short_Num":"@NUMER-KURZ 1-9 arasinda bir sayi dönderiri",
-      "_blank":"@# html icin <br> satir boslugu ekler"
+      "_blank":"@# html icin <br> satir boslugu ekler",
+      "city":"@CITY bir sehir adi dönderir"
     },
     "horen-schreiben": {
       "text": "Sie hören eine telefonische Mitteilung. Informieren Sie Ihre Kollegin. Notieren Sie die Informationen auf dem Antwortbogen. @#Sie hören die Mitteilung einmal.",
