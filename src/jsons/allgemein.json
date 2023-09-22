@@ -1,5 +1,4 @@
-[
-    {
+{
     "names": {
       "nachname": [
         "Schmidt", "Müller", "Schneider", "Fischer", "Weber", "Meyer", "Wagner", "Becker", "Schulz", "Hoffmann", "Bauer", "Wolff", "Koch", "Schwartz", "Brandt", "Berger", "Schmid", "Krüger", "Keller", "Klein", "Peters", "Hahn", "Hartmann", "Maier", "Thomas", "Schröder", "Lang", "Schulte", "Schäfer", "König", "Frank", "Schubert", "Neumann", "Schmidt", "Gruber", "Mayer", "Bauer", "Winter"
@@ -12,4 +11,3 @@
       "Stuttgart", "Mannheim", "Karlsruhe", "Heidelberg", "Freiburg", "Ulm", "Göppingen", "Esslingen", "Tübingen", "Pforzheim", "Baden-Baden", "Frankfurt", "München", "Hamburg", "Berlin", "Köln", "Düsseldorf", "Essen", "Dortmund", "Duisburg", "Bochum", "Bonn", "Aachen", "Bremen", "Hannover", "Leipzig", "Dresden", "Nürnberg", "Würzburg", "Regensburg"
     ]
   }
-]
