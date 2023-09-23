@@ -1,20 +1,21 @@
   {
     "infoKurzen":{
       "voice":"keyName_[F/H] yazilarak bildirilir. Bos birakilirsa random olarak secilir",
-      "telefon_Name":"@TELEFON-NAME özellestirilmis nameNachname+telefon numarasi ekler",
+      "telefone":"@TELEFON bir telefon numarasi dönderirir",
+      "nachname":"@NACHNAME listeden bir nachname dönderir",
+      "date_Raum":"@DATE-RAUM bir tarih araligi dönderir. => vom 25. bis 27. September // 'vom ... bis' propositione ICERIR ",
+      "random_Name_Frau":"@NAME[F] random olarak bir kain adi dönderirir.  ÖNEMLI: Eger soyad ile bagdastirilacak asil arayan ise @NAME_[F] seklinde bilsirimeli",
+      "random_Name_Mann":"@NAME[H] random olarak erkek ismi dönderir  ÖNEMLI: Eger soyad ile bagdastirilacak asil arayan ise @NAME_[H] seklinde bilsirimeli",
+      "random_Name":"@NAME kadin ya da erkek rast gele bir isim döneriri  ÖNEMLI: Eger soyad ile bagdastirilacak asil arayan ise @NAME_ seklinde bilsirimeli",
       "siparis_Kunden_nummer":"@KUNDENNUM müsteri numarasi/siparis numarasi bildirir. Varsayilan olarak harf/sayi karisik 5 karakter olusturur. Sonuna tek haneli sayi ekleyerek farkli sayida üretilebilir => @KUNDENNUM9 gibi",
       "date":"@DATE belirli bir tarih ekler => 15. Oktober // 'am' propositione icermez",
       "hour":"@DATE-HOUR 08-17 raliginda 15 katlari olacak sekilde saat:dakika döner. // 'um' propositione icermez",
-      "date_Raum":"@DATE-RAUM bir tarih araligi dönderir. => vom 25. bis 27. September // 'vom ... bis' propositione ICERIR ",
-      "random_Name_Frau":"@NAME[F] random olarak bir kain adi dönderirir.",
-      "random_Mann":"@NAME[H] random olarak erkek ismi dönderir",
-      "random_Name":"@NAME kadin ya da erkek rast gele bir isim döneriri",
       "short_Num":"@NUMER varsayilan olarak 1-9 arasinda bir sayi dönderiri, eger daha fazla sayi döndermesi isteniliyorsa sonuna min-max deger girilmeli =>@NUMER25-50, eger sadece max deger girilirse 1-max arasinda bir deger atarni =>@NUMBER30",
-      "_blank":"@# html icin <br> satir boslugu ekler",
       "city":"@CITY bir sehir adi dönderir",
       "color":"@FARBE renk durumunu bildirir",
       "obje":"@OBJE büroda kullanilan cesitli esyalari ifade eder",
-      "geräte":"@GERAT teknik bilgi ve cogunlukla servis tarfinan kurulmasi gerkli olan cihazlar ör: Ses sistemi, güvenlik kamera sistemi, kilima vb. "
+      "geräte":"@GERAT teknik bilgi ve cogunlukla servis tarfinan kurulmasi gerkli olan cihazlar ör: Ses sistemi, güvenlik kamera sistemi, kilima vb. ",
+      "_blank":"@# html icin <br> satir boslugu ekler"
     },
     "horen-schreiben": {
       "text": "Sie hören eine telefonische Mitteilung. Informieren Sie Ihre Kollegin. Notieren Sie die Informationen auf dem Antwortbogen. @#Sie hören die Mitteilung einmal.",
