@@ -9,5 +9,7 @@
     },
     "city": [
       "Stuttgart", "Mannheim", "Karlsruhe", "Heidelberg", "Freiburg", "Ulm", "Göppingen", "Esslingen", "Tübingen", "Pforzheim", "Baden-Baden", "Frankfurt", "München", "Hamburg", "Berlin", "Köln", "Düsseldorf", "Essen", "Dortmund", "Duisburg", "Bochum", "Bonn", "Aachen", "Bremen", "Hannover", "Leipzig", "Dresden", "Nürnberg", "Würzburg", "Regensburg"
-    ]
-  }
+    ],
+    "color":["Rot","Blau","Grün","Gelb","Schwarz","Weiß","Orange","Lila","Rosa","Braun"],
+    "obje":["Schreibtisch","Stuhl","Computer","Tastatur","Maus","Drucker","Telefon","Aktenschrank","Ordner","Kugelschreiber","Bleistift","Papier","Hefter","Notizbuch","Büroklammer","Kopierer","Klebeband","Schere","Büroklammerentferner","Schreibtischlampe","Kalender","Kaffeemaschine","Wasserflasche","Papierkorb","Aktenmappe","Bürostempel","Lineal","Bürostuhlmatte","Büroklammerbehälter","Hinweisetiketten","Terminmappen","Bastelpapier","Sprühfarben","Sticker","Namensschilder","fisch-Namensschilder","Locher","Brieföffner"],
+}
