@@ -12,7 +12,7 @@
       "city":"@CITY bir sehir adi dönderir",
       "color":"@FARBE renk durumunu bildirir",
       "obje":"@OBJE büroda kullanilan cesitli esyalari ifade eder",
-      "geräte":"@GERAT teknik bilgi ve cogunlukla servis tarfinan kurulmasi gerkli olan cihazlar ör: Ses sistemi, güvenlik kamera sistemi, kilima vb. ",
+      "geräte":"@GERAT teknik bilgi ve cogunlukla servis tarfinan kurulmasi gerkli olan cihazlar ör: Ses sistemi, güvenlik kamera sistemi, kilima vb. "
     },
     "horen-schreiben": {
       "text": "Sie hören eine telefonische Mitteilung. Informieren Sie Ihre Kollegin. Notieren Sie die Informationen auf dem Antwortbogen. @#Sie hören die Mitteilung einmal.",
