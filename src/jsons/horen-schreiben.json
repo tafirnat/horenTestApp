@@ -4,6 +4,7 @@
       "telefone":"@TELEFON bir telefon numarasi dönderirir",
       "nachname":"@NACHNAME listeden bir nachname dönderir",
       "date_Raum":"@DATE-RAUM bir tarih araligi dönderir. => vom 25. bis 27. September // 'vom ... bis' propositione ICERIR ",
+      "Anrede+Name":"@A-NAME bir hitap ve uygun isim dönderiri, Frau Götze, Herr Müller",
       "random_Name_Frau":"@NAME[F] random olarak bir kain adi dönderirir.  ÖNEMLI: Eger soyad ile bagdastirilacak asil arayan ise @NAME_[F] seklinde bilsirimeli",
       "random_Name_Mann":"@NAME[H] random olarak erkek ismi dönderir  ÖNEMLI: Eger soyad ile bagdastirilacak asil arayan ise @NAME_[H] seklinde bilsirimeli",
       "random_Name":"@NAME kadin ya da erkek rast gele bir isim döneriri  ÖNEMLI: Eger soyad ile bagdastirilacak asil arayan ise @NAME_ seklinde bilsirimeli",
